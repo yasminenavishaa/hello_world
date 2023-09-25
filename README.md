@@ -1,5 +1,5 @@
 ## **(2141720047) Yasmine Navisha Andhani - TI_3G**
-Link Github : 
+Link Github : https://github.com/yasminenavishaa/hello_world
 
 
 # Praktikum 3
@@ -82,3 +82,4 @@ Favorite page
 ![Alt text](image-18.jpg)
 ![Alt text](image-19.jpg)
 
+link github : https://github.com/yasminenavishaa/name_app
